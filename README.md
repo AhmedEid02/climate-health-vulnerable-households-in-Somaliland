@@ -1,4 +1,4 @@
-# Climate-Health Vulnerability Targeting in Somaliland
+# Climate-Health Vulnerability Targeting in Somaliland: Evidence from SDHS 2020
 
 A reproducible climate-risk analytics project that transforms household survey indicators into actionable climate-health vulnerability insights for risk targeting and resilience planning.
 
